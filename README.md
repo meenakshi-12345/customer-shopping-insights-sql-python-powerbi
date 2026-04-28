@@ -195,6 +195,6 @@ Meenakshi Rajpurohit
 
 Data Analyst 
 
-Reach out to me : imeenakshii28@gmail.com
+Contact : imeenakshii28@gmail.com
 
 This project reflects my ability to take a dataset from raw form to actionable insights.
