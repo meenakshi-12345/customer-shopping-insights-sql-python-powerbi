@@ -1,9 +1,12 @@
-<img width="1024" height="370" alt="image1" src="https://github.com/user-attachments/assets/b5dd17a5-33c9-4425-9b52-f97c16e24bc4" />
+
+<img width="1024" height="332" alt="image" src="https://github.com/user-attachments/assets/d171d359-241d-41ea-981e-5446c5239104" />
 
 
+<h1 align="center">🛍️ Customer Behavior Analysis</h1>
 
-🛍️ Customer Behavior Analysis 
-
+<p align="left">
+A data analysis project focused on understanding customer purchasing patterns.
+</p>
 An end-to-end data analytics project where I explored customer shopping behavior using SQL, Python, and Power BI — starting from raw data to building an interactive business dashboard.
 
 This project focuses on understanding:
